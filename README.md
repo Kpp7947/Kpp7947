@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kate</h1>
+<h1 align="center">Hi 👋, I'm Paphawadee Chansorn</h1>
 <h3 align="center">I'm a third-year IT student at King Mongkut’s Institute of Technology Ladkrabang.</h3>
 
 - 🌱 I’m currently learning **NextJS, AWS**
